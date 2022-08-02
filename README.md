@@ -25,5 +25,5 @@
 <h3> Proyectos </h3> 
 <strong><em> Reto 30 Días<em> </strong>
 <br>
-- <a href="https://github.com/Franmgg/js-Day1-Hangman"> El Ahorcado en Javascript - Dia 1 </a>
-- <a href="https://github.com/Franmgg/js-Day2-TicTacToe"> El 3 en raya en Javascript - Dia 2 </a>
+- <a href="https://github.com/Franmgg/js-Day1-Hangman"> El Ahorcado en Javascript - Dia 1 </a><br>
+- <a href="https://github.com/Franmgg/js-Day2-TicTacToe"> El 3 en raya en Javascript - Dia 2 </a><br>
