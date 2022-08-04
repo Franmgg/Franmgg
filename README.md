@@ -27,5 +27,5 @@
 <br>
 - <a href="https://github.com/Franmgg/js-Day1-Hangman"> El Ahorcado en Javascript - Dia 1 </a><br>
 - <a href="https://github.com/Franmgg/js-Day2-TicTacToe"> El 3 en raya en Javascript - Dia 2 </a><br>
-- <a href="https://github.com/Franmgg/js-Day3-RockPaperScisor"> El 3 en raya - Dia 3 </a><br>
+- <a href="https://github.com/Franmgg/js-Day3-RockPaperScisor"> El Piedra papel tijeras - Dia 3 </a><br>
 - <a href="https://github.com/Franmgg/js-Day4-7-y-media"> Las 7 y media - Dia 4 </a><br>
