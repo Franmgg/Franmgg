@@ -22,16 +22,3 @@
 
 ###
 ----
-<h3> Proyectos </h3> 
-<strong><em> Reto 30 Días<em> </strong>
-<br>
-- <a href="https://github.com/Franmgg/js-Day1-Hangman"> El Ahorcado en Javascript - Dia 1 </a><br>
-- <a href="https://github.com/Franmgg/js-Day2-TicTacToe"> El 3 en raya en Javascript - Dia 2 </a><br>
-- <a href="https://github.com/Franmgg/js-Day3-RockPaperScisor"> El Piedra papel tijeras - Dia 3 </a><br>
-- <a href="https://github.com/Franmgg/js-Day4-7-y-media"> Las 7 y media - Dia 4 </a><br>
-- <a href="https://github.com/Franmgg/js-Day5-PizzaClicker"> Pizza Clicker - Dia 5 </a><br>
-- <a href="https://github.com/Franmgg/js-Day6-Paint"> Herramienta de dibujo - Dia 6 </a><br>
-- <a href="https://github.com/Franmgg/js-Day7-1minuteClick"> Contador de clicks - Dia 7 </a><br>
-- <a href="https://github.com/Franmgg/js-Day8-PokeApi"> Poke-Api - Dia 8 </a><br>
-- <a href="https://github.com/Franmgg/js-Day9-NasaApi"> Nasa API - Dia 9 </a><br>
-
